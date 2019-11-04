@@ -1,4 +1,4 @@
-package com.oppo.cac.base
+package com.cac.base
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.oppo.cac.base", appContext.packageName)
+        assertEquals("com.cac.base", appContext.packageName)
     }
 }

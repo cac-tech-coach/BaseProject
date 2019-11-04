@@ -1,4 +1,4 @@
-package com.oppo.cac.base
+package com.cac.base
 
 import org.junit.Test
 
